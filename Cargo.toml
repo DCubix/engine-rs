@@ -1,0 +1,6 @@
+[package]
+name = "engine-rs"
+version = "0.1.0"
+authors = ["DCubix <diego95lopes@LIVE.COM>"]
+
+[dependencies]
